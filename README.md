@@ -1,6 +1,6 @@
 <h2 align="left">Software Engineer/QA Tester</h2>
 
-<p align="left">while(alive)<br> {
+<p align="left">while(alive)<br> {<br>
   eat();<br>
   sleep();<br>
   code();<br>
