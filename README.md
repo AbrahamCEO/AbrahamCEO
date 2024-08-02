@@ -1,5 +1,11 @@
 <h2 align="left">Software Engineer/QA Tester</h2>
-![image](https://github.com/user-attachments/assets/734a5163-742e-4aaf-9df1-106cf8e899f7)
+
+<h2 align="left">while(alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}</h2>
 
 ### 
 
